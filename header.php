@@ -10,7 +10,7 @@
 
 <header>
 
-<img src = "" />
+<img src = "PolbyPic.png" />
 
 <nav>
 
